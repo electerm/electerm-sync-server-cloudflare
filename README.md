@@ -11,8 +11,7 @@ A Cloudflare Workers implementation of the electerm sync server using D1 as the 
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14 or later)
-- [Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/install-and-update/) (Cloudflare Workers CLI tool)
+- [Node.js](https://nodejs.org/) (v20 or later)
 - A Cloudflare account with Workers and D1 enabled
 
 ## Setup Instructions
@@ -23,6 +22,7 @@ A Cloudflare Workers implementation of the electerm sync server using D1 as the 
 git clone https://github.com/your-username/electerm-sync-cloudflare.git
 cd electerm-sync-cloudflare
 npm install
+npm i -g wrangler
 ```
 
 ### 2. Create a D1 Database
