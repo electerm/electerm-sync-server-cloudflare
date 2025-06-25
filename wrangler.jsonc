@@ -1,0 +1,14 @@
+{
+  "name": "electerm-sync-cloudflare",
+  "main": "src/index.ts",
+  "compatibility_date": "2023-05-18",
+
+  // Configure D1 Database
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "electerm_sync_db",
+      "database_id": "04588fbe-e21e-44b9-9f05-1fe3b0c40bc4"
+    }
+  ]
+}
