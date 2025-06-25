@@ -99,7 +99,7 @@ In Electerm, configure the sync feature to use your deployed Cloudflare worker U
 
 ## Sync server in other languages
 
-(https://github.com/electerm/electerm/wiki/Custom-sync-server)[https://github.com/electerm/electerm/wiki/Custom-sync-server]
+[https://github.com/electerm/electerm/wiki/Custom-sync-server](https://github.com/electerm/electerm/wiki/Custom-sync-server)
 
 ## License
 
