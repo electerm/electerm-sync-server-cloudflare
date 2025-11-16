@@ -1,5 +1,7 @@
 # Electerm Sync Server - Cloudflare Workers + D1
 
+[English](./README.md) | [中文](./README_CN.md)
+
 A Cloudflare Workers implementation of the electerm sync server using D1 as the database backend. This provides a lightweight, scalable, and serverless alternative to the Node.js implementation.
 
 ## Features
